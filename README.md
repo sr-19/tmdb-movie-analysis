@@ -10,4 +10,4 @@ This project analyzes trends and relationships in movie budgets, revenues, and p
 
 This helps producers and stakeholders make informed decisions about budgeting and genre targeting.
 
-[**Code**](https://github.com/sr-19/tmdb-movie-analysis/blob/main/revenue_and_budget_analysis_tmdb.ipynb)
+**Code**[Link to the code](https://github.com/sr-19/tmdb-movie-analysis/blob/main/revenue_and_budget_analysis_tmdb.ipynb)
